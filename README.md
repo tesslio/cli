@@ -29,5 +29,5 @@ For help with the beta Tessl Framework, you can join the Discord channel - #tess
 
 ## Terms and Conditions
 
-- [Terms of Service](https://docs.tessl.io/beta-access-program/terms-of-service)
-- [Privacy Policy](https://tessl.io/policies/privacy)
+- [Terms of Service](https://tessl.io/policies/terms)
+- [Privacy Policy](https://tessl.io/policies/privacy-cookies)
