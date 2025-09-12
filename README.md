@@ -3,7 +3,7 @@
 Tessl helps code agents stay on track using Spec Driven Development (SDD):
 
 - Find your favorite Open Source library in our spec registry
-- Use the Tessl framework to create and manage your own specs 
+- Use the Tessl framework to create and manage your own specs
 
 **Explore more in our [official documentation](https://docs.tessl.io)**.
 
@@ -19,14 +19,15 @@ npm install -g @tessl/cli
 
 ## Reporting Bugs
 
-We love feedback. You can use the `feedback` command to report issues directly within Tessl, file a [GitHub issue](https://github.com/tesslio/cli/issues) or just email <support@tessl.io>.
+We love feedback. You can use the `tessl feedback` command to report issues or share feedback directly within Tessl, file a [GitHub issue](https://github.com/tesslio/cli/issues) or just email <support@tessl.io>.
 
 ## Connect on Discord
 
-You are welcome to join the [Tessl Discord](https://tessl.co/4eV736y) to connect with other developers using Tessl. 
+You are welcome to join the [Tessl Discord](https://tessl.co/4eV736y) to connect with other developers using Tessl.
 
 For help with the beta Tessl Framework, you can join the Discord channel - #tessl-early-access, to quickly reach the team.
 
-### Terms and Conditions
+## Terms and Conditions
 
+- [Terms of Service](https://docs.tessl.io/beta-access-program/terms-of-service)
 - [Privacy Policy](https://tessl.io/policies/privacy)
