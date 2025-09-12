@@ -23,7 +23,7 @@ We love feedback. You can use the `feedback` command to report issues directly w
 
 ## Connect on Discord
 
-You are welcome to join the [Tessl Discord](https://discord.gg/tessl) to connect with other developers using Tessl. 
+You are welcome to join the [Tessl Discord](https://tessl.co/4eV736y) to connect with other developers using Tessl. 
 
 For help with the beta Tessl Framework, you can join the Discord channel - #tessl-early-access, to quickly reach the team.
 
