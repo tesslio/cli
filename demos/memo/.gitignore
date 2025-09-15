@@ -1,0 +1,29 @@
+node_modules
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Database
+*.db
+*.sqlite
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+
+# Build artifacts
+dist/
+build/
+
+# Other
+.DS_Store
+.env
