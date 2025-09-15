@@ -1,9 +1,9 @@
 # Tessl
 
-Tessl helps code agents stay on track using Spec Driven Development (SDD):
+Tessl keeps coding agents on rails using spec-driven development (SDD):
 
-- Find your favorite Open Source library in our spec registry
-- Use the Tessl framework to create and manage your own specs
+- Install usage docs for your favorite open source library from the Tessl Spec Registry
+- Use the Tessl framework to create your own spec-driven project
 
 **Explore more in our [official documentation](https://docs.tessl.io)**.
 
