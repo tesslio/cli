@@ -1,11 +1,13 @@
 # Tessl
 
-Tessl keeps coding agents on rails using spec-driven development (SDD):
+Tessl is an Agent Enablement Platform that gives your agents the context they're missing.
 
 - Install usage docs for your favorite open source library from the Tessl Spec Registry
-- Use the Tessl framework to create your own spec-driven project
+- Create your own internal docs and share with your team 
 
 **Explore more in our [official documentation](https://docs.tessl.io)**.
+
+Visit the [Registry](https://tessl.io/registry) to see which open source libraries we provide documentation for.
 
 ## Get started
 
@@ -24,8 +26,6 @@ We love feedback. You can use the `tessl feedback` command to report issues or s
 ## Connect on Discord
 
 You are welcome to join the [Tessl Discord](https://tessl.co/4eV736y) to connect with other developers using Tessl.
-
-For help with the beta Tessl Framework, you can join the Discord channel - #tessl-early-access, to quickly reach the team.
 
 ## Terms and Conditions
 
