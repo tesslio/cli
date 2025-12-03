@@ -1,6 +1,0 @@
-{
-  "devDependencies": {
-    "@tileworks/cli-test": "https://install.tessl.io/releases/v0.21.0-rc3.tgz",
-    "claude-code": "^0.0.2"
-  }
-}
