@@ -14,7 +14,7 @@ Visit the [Registry](https://tessl.io/registry) to see which open source librari
 1. Install Tessl:
 
 ```sh
-npm install -g @tessl/cli
+curl -fsSL https://get.tessl.io | sh
 ```
 
 2. Now in your project directory run `tessl`
