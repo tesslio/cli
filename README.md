@@ -9,6 +9,16 @@ Tessl is an Agent Enablement Platform that gives your agents the context they're
 
 Visit the [Registry](https://tessl.io/registry) to see which open source libraries we provide documentation for.
 
+## Supported Agents
+
+Tessl works with all major AI coding agents:
+
+- **Claude Code** - `tessl init --agent claude-code`
+- **GitHub Copilot CLI** - `tessl init --agent copilot-cli` ([setup guide](docs/github-copilot-cli.md))
+- **Cursor** - `tessl init --agent cursor`
+- **Gemini** - `tessl init --agent gemini`
+- **Codex** - `tessl init --agent codex`
+
 ## Get started
 
 1. Install Tessl:
@@ -17,7 +27,20 @@ Visit the [Registry](https://tessl.io/registry) to see which open source librari
 curl -fsSL https://get.tessl.io | sh
 ```
 
-2. Now in your project directory run `tessl`
+2. Initialize for your agent:
+
+```sh
+tessl init --agent copilot-cli  # or: claude-code, cursor, gemini, codex
+```
+
+3. Install tiles from the registry:
+
+```sh
+tessl install react
+tessl install typescript
+```
+
+4. Run your agent - it will automatically use the installed context
 
 ## Reporting Bugs
 
