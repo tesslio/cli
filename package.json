@@ -1,0 +1,35 @@
+{
+  "name": "@tessl/cli",
+  "version": "0.1.0",
+  "description": "Tessl CLI - Agent Enablement Platform",
+  "main": "dist/index.js",
+  "bin": {
+    "tessl": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node src/index.ts",
+    "lint": "eslint src/**/*.ts",
+    "test": "jest"
+  },
+  "keywords": [
+    "tessl",
+    "cli",
+    "agent"
+  ],
+  "author": "Tessl",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.5",
+    "commander": "^12.1.0",
+    "conf": "^13.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
